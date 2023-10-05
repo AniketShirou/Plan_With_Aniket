@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plan_With_Aniket/static/css/main.4551ab56.css",
+    "main.js": "/Plan_With_Aniket/static/js/main.76876220.js",
+    "index.html": "/Plan_With_Aniket/index.html",
+    "main.4551ab56.css.map": "/Plan_With_Aniket/static/css/main.4551ab56.css.map",
+    "main.76876220.js.map": "/Plan_With_Aniket/static/js/main.76876220.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4551ab56.css",
+    "static/js/main.76876220.js"
+  ]
+}
